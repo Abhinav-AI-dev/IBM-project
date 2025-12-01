@@ -1,2 +1,2 @@
-# flask-starter
-Demo - First CICD pipeline for Flask App Deployment
+IBM project 
+First CICD pipeline for Flask App Deployment
